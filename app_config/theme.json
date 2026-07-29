@@ -1,0 +1,70 @@
+{
+  "window_background": "#001F3F",
+  "text": "#EDF2F7",
+
+  "panel_background": "#001F3F",
+  "title": "#FFD700",
+  "accent": "#3399FF",
+
+  "details_background": "#001F3F",
+  "details_text": "#FFFF99",
+  "details_title": "#FFD700",
+
+  "resume_skill_highlight_foreground": "#00CC66",
+  "resume_skill_highlight_background": "#1A2B1A",
+
+  "missing_skill_foreground": "#FF9900",
+  "missing_skill_background": "#332200",
+
+  "grid_favorite_background": "#0000FF",
+  "grid_favorite_text": "#00FF00",
+
+  "grid_new_background": "#00008B",
+  "grid_new_text": "#FFFFFF",
+
+  "grid_viewed_background": "#000000",
+  "grid_viewed_text": "#FFFF00",
+
+  "grid_applied_background": "#0000FF",
+  "grid_applied_text": "#00008B",
+
+  "grid_interview_background": "#0000FF",
+  "grid_interview_text": "#FFFF00",
+
+  "grid_offer_background": "#000000",
+  "grid_offer_text": "#FFFFFF",
+
+  "grid_rejected_background": "#808080",
+  "grid_rejected_text": "#FF0000",
+
+  "grid_hidden_background": "#B7B7B7",
+  "grid_hidden_text": "#555555",
+
+  "ai_strong_apply_background": "#004D00",
+  "ai_strong_apply_text": "#FFFF99",
+
+  "ai_apply_background": "#003300",
+  "ai_apply_text": "#FFFF99",
+
+  "ai_review_background": "#333300",
+  "ai_review_text": "#FFFF99",
+
+  "ai_low_match_background": "#4D2600",
+  "ai_low_match_text": "#FFFF99",
+
+  "ai_skip_background": "#2B2B2B",
+  "ai_skip_text": "#999999",
+
+  "ai_background": "#001F3F",
+  "ai_text": "#FFFF99",
+
+  "preview_tab_background": "#2D2D30",
+  "preview_tab_foreground": "#FFFFFF",
+  "preview_tab_selected_background": "#3399FF",
+  "preview_tab_selected_foreground": "#FFFFFF",
+  "preview_tab_active_background": "#3E3E42",
+
+  "preview_text_background": "#060E1F",
+  "preview_text_foreground": "#EDF2F7",
+  "preview_text_insert": "#EDF2F7"
+}
